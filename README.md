@@ -1,3 +1,6 @@
 # Multiplex relational event models of self-reported and perceived gossip
 
 This repository contains the code used for the simulation study and empirical application presented in the paper *Multiplex relational event models of self-reported and perceived gossip*.
+
+Gossiping is a complex social phenomenon that can be viewed as a dynamic multiplex process, where self-reported and perceived gossip interactions coexist and may influence each other over time. We develop Multiplex Relational Event Models (MREMs), an extension of relational event models that jointly captures time-ordered events across multiple relational layers. The proposed framework includes endogenous covariates to model both within- and between-layer influences, together with linear, smooth, and random effects to account for temporal patterns and heterogeneity across classes and individuals. We evaluate the proposed framework through simulation studies and an empirical application to longitudinal school survey data from Hungary, where gossip events are only partially observed. The results illustrate how MREMs can capture the influences of self-reported and perceived gossip on each other and account for both within- and cross-network effects.
+
